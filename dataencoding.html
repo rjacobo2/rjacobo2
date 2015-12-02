@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+<title>Encoding an Experience</title>
+</head>
+<body>
+
+    <h1>Data Encoding Table</h1>
+    <table border=2>
+        <tr colspan="4"><span style="font-weight:bold;"> The Way Home: </span>Everything that I see or do on the way home is encoded in order <br> to recreate the experience. </tr>
+        <tr>
+            <th>Component</th>
+            <th>Type</th>
+            <th>Number of Bits/Range</th>
+            <th>Description/Comments</th>
+        </tr>
+        <tr>
+            <td >Volume</td>
+            <td>Number</td>
+            <td><center>7 bits <br> (0-100 dB)</td>
+            <td>How loud it is inside the bus.</td>
+        </tr>
+        <tr>
+            <td>Where I Sit</td>
+            <td>ASCII</td>
+            <td><center>256 bits<br> (0-32 chars)</td>
+            <td>Where I Sit once I get on the bus.</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>Number</td>
+            <td><center>16 bits<br>(0-3600 sec)</td>
+            <td>The amount of time I spend on the bus.</td>
+         </tr>
+         <tr>
+             <td>People</td>
+             <td>Number</td>
+             <td><center>6 bits<br>(0-63 people)</td>
+             <td>The amount of people on the bus.</td>
+         </tr>
+          <tr>
+             <td>Weather</td>
+             <td>ASCII</td>
+             <td><center>10 chars<br>(0-80 bits)</td>
+             <td>A brief description of the weather.</td>
+         </tr>
+    </table>
+
+</body>
+</html>
