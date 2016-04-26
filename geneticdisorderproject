@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Round About - Start Bootstrap Template</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/round-about.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+<div class="container">
+  <div class="jumbotron">
+    <h1>Color Blindness:</h1> 
+    <p>Everything you need to know about the disorder.</p> 
+  </div>
+</div>
+
+    <!-- Page Content -->
+    <div class="container">
+
+        <!-- Introduction Row -->
+        <div class="row">
+            <div class="col-lg-12">
+                <h1 class="page-header">What is Color Blindess?
+                    <small>The Important Facts</small>
+                </h1>
+                <p>Color blindess is a disorder that alters the ways people perceive color. The people with this disorder are either unable to differentiate different colors or be unable to see a certain shade completely. Contrary to what many people believe, color blindness doesn't always mean that a person is completely unable to see colors. The disorder affects certain cells in our eyes which are shaped like cones and help us perceive the colors of light which are green, blue, and red.There are many types of color blindess, each type having to do with what cone is missing.</p>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-lg-12">
+                <h1 class="page-header">Who is affected by the disorder?
+                    <small>The Statistics</small>
+                </h1>
+                <p>Colorblindess is a disorder which is linked to the X-chromosome. This means that if a mother is a carrier for the disorder, there is a 50% chance the son will have it. Due to this property, many men suffer from colorblindess than women do. Keep in mind, however, that contrary to what many people think, women are still susceptible to having the disorder. Colorblindess is found mostly in Caucasians at a frequency of 8% of the male population and 0.5% of the female population.<p>
+            </div>
+        </div>
+        <!-- Team Members Row -->
+        <div class="row">
+            <div class="col-lg-12">
+                <h2 class="page-header">Could you be affected?
+                <small>Look at the following pictures to find out if you have a form of the disorder.</small></h2>
+                
+            </div>
+            <div class="col-lg-4 col-sm-6 text-center">
+                <img class="img-circle img-responsive img-center" src="http://www.colour-blindness.com/CBTests/ishihara/Plate1.gif" alt="">
+                <h3>Do you see a 12?
+                </h3>
+                <p>This slide is designed so that everybody can see the number.</p>
+            </div>
+            <div class="col-lg-4 col-sm-6 text-center">
+                <img class="img-circle img-responsive img-center" src="http://www.colour-blindness.com/CBTests/ishihara/Plate2.gif" alt="">
+                <h3>Do you see the 8?
+                </h3>
+                <p>People with normal vision are able to see the 8. If you see a 3 then you have a form of red-green colorblindess.</p>
+            </div>
+            <div class="col-lg-4 col-sm-6 text-center">
+                <img class="img-circle img-responsive img-center" src="http://www.colour-blindness.com/CBTests/ishihara/Plate3.gif" alt="">
+                <h3>Do you see the 29?
+                </h3>
+                <p>People with normal vision see the 29. If you see a 70, you have a form of red-green colorblindness.</p>
+            </div>
+            <div class="col-lg-4 col-sm-6 text-center">
+                <img class="img-circle img-responsive img-center" src="http://www.colour-blindness.com/CBTests/ishihara/Plate4.gif" alt="">
+                <h3>Do you see the 5?
+                </h3>
+                <p>If you have normal vision, you see a 5. If you have red-green colorblindess you would see a 2.</p>
+            </div>
+            <div class="col-lg-4 col-sm-6 text-center">
+                <img class="img-circle img-responsive img-center" src="http://www.colour-blindness.com/CBTests/ishihara/Plate8.gif" alt="">
+                <h3>Do you see the 6?
+                </h3>
+                <p>If you have normal vision, you would see a 6. If you have red-green colorblindess you wouldn't see anything.</p>
+            </div>
+            <div class="col-lg-4 col-sm-6 text-center">
+                <img class="img-circle img-responsive img-center" src="http://www.colour-blindness.com/CBTests/ishihara/Plate14.gif" alt="">
+                <h3>What do you see here?
+                </h3>
+                <p>If you have normal vision, you shouldn't see anything. If have red-green colorblindess, however, you would see a 5!</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                <h1 class="page-header">How big of an effect does this have on someone's life?
+                    <small>More than you would think.</small>
+                </h1>
+                <p>To someone without it, color blindess does not seem like that big of a deal. If you aren't able to tell the difference between brown and red, it shouldn't really matter should it? Well, colorblindess has a huge impact on someone's life. "A huge impact" does not mean being unable to be fasionable or using the wrong coloring pencil while coloring. The huge impacts are things like seeing traffic lights incorrectly or even limiting what careers you may choose. A colorblind person may behave poorly at a stoplight because of being unable to determine what light is on. There are also certain jobs such as policemen and pilots that will prohibit you from joining if you have any form of colorblindess whatsoever.</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                <h1 class="page-header">Is there a cure?
+                    <small>Treatment options</small>
+                </h1>
+                <p>Currently, there is no cure for this disorder. Many people who have it will have to deal with it for their whole life. Fortunately, there have been some advancements in the process for a cure and it was found that a virus could help restore sight to normal. The cure comes in the form of an injection which is given to the eye where a virus makes its way into the retina. This virus injects its DNA into the cones and allows your eyes to make the pigment for the colors that you are missing. <br> However, if you do not like the idea of having a needle poked in your eye, you could spend your money on special glasses that help you see colors. These glasses, known as EnChroma glasses, make colors appear brighter in order to distinguish them easily. The only downside to these are that they are very expensive so get them you have the money or are desperately in need of a cure.  </p>
+            </div>
+        </div>
+        <hr>
+
+        <!-- Footer -->
+        <footer>
+            <div class="row">
+                <div class="col-lg-12">
+                    <p>By Roberto Jacobo</p>
+                </div>
+                <!-- /.col-lg-12 -->
+            </div>
+            <!-- /.row -->
+        </footer>
+
+    </div>
+    <!-- /.container -->
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+</body>
+
+</html>
